@@ -11,7 +11,7 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Replace "path/to/credentials.json" with the relative path to your credentials file
-creds_path = "ScrapSalvageProj/scrap-salvagesalvage-data-71cd1942426e.json"
+creds_path = "ScrapSalvageProj\SalvageScript\scrap-salvagesalvage-data-71cd1942426e.json"
 
 # Function to set up Google Sheets API credentials and return a worksheet object
 def get_google_sheet(sheet_id, sheet_name):
