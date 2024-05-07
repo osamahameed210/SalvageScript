@@ -6,12 +6,28 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from datetime import datetime
 import urllib3
+import os
+import sys
 
 # Suppress SSL warnings
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
-# Replace "path/to/credentials.json" with the relative path to your credentials file
-creds_path = "ScrapSalvageProj\SalvageScript\scrap-salvagesalvage-data-71cd1942426e.json"
+# Determine the base path
+if hasattr(sys, "_MEIPASS"):
+    # If running as a bundled executable
+    base_path = sys._MEIPASS
+else:
+    # If running as a regular Python script, use the current working directory
+    base_path = os.path.abspath(".")
+
+# Construct the path to the credentials file directly
+creds_path = os.path.join(base_path, "scrap-salvagesalvage-data-71cd1942426e.json")
+
+# Check if the credentials file exists at the constructed path
+if not os.path.isfile(creds_path):
+    print(f"Error: Credentials file not found at {creds_path}")
+else:
+    print(f"Credentials file found at {creds_path}")
 
 # Function to set up Google Sheets API credentials and return a worksheet object
 def get_google_sheet(sheet_id, sheet_name):
