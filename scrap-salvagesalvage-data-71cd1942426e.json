@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "scrap-salvagesalvage-data",
+  "private_key_id": "71cd1942426ed5995fe053418f96a4d7144791b1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCjGtWNJYB7jR8C\nG3yya+qURU9WCdllvYRoL1GaIL+0767eE6Pm+X410cCJtSI803EJXkXhqt0sWcPW\n9sucJcesmrnESZwq63KjshPOZr/TtDxL6aoI4XF50edTHuugOBbdopk6OeeSej0y\nr3q8u2h+RKkdUOkvGYhxGWsB702nbO+LdCPY7UyPRFmEqCJ/ZT5RAfz6D7LStBho\nPmQVh5CbcU86UpS5XoabW/dp/MlzoAFtSiFE0tsA3XJZOOYqnqfFmlZ7LY7s9ZYp\nLq5PHDnQNEjEtIdtu3bsNFFaB8LPYQWNDjBXMUGr8LYVwCA8iuHDARmtbTbo39WP\nGQLHAPXvAgMBAAECggEASMtlqxilNr89qyGcbj9G00T5yyMbMVK7oQoZZ+oc1YKx\nr3DhkmkgoKGMRomejboqtW0rUDQDgVNQ2gSMzBR6gPkPVuEpf2hU4mVMfK6UB8bl\nsFXJqyv/CskZbpoavIe8ANAchgWo6lF/Nbtm0ovr74ryVWCyqfBB2oRnI1Zr+IAq\nAwIoU3F8aCb8gwg7SNaljKrx79x1HU3SGOYW6aSWosUhUbvKW6BgGb0Udsf34Ivm\nhDQ5MOBa5VTd3Nkg+RO25pCx1t9HQbiwjnxSRC+rBuLCvXB5B8iYQ1vlHnOHuarA\nXBVLG81pnZ3xGVBBrVntwu90qGoV+22tQOcs1vednQKBgQDUTdRugR5ACAa3w/NL\nGSC1rHXDKxPlPTar/2j5byaBAAk6ASN2zg3xrLT7IRfpOTXn4EWHKSXXMJl6RFvw\nHizCwWqEGwMZxt6FR02+aDPF+uFSyQospIsAyA0i9N0P8P99GiP2bU/rgVpuimiX\nlm3V5/csK2QGbKMADVM66QkOMwKBgQDErLpwdi0uW+nagJ66+LCPUWjrDYLH8feX\n1z8aI9WbvJ1jTt8KmWipZOKl5qDbKjPp8j2N1QgHDN0xkslmvcKc3UuRPrNQ5HdH\nA4GKE+vt/Q10F8+ZqhmfOq82vejHgT1Gw7FdhXynxtvNJmzJ7mXNlrLze4bEopfX\n01lQ3qbFVQKBgGWGQowFmt2r+Opv/ixve8DlE/uc4grB1x8xKJX/nT4bMk5WtQrf\nRrPHj1R4YuLYxPp5uUYFW18oknxxrDWLeIQ50iISeM0e2NKLYpYnZnrKmm3oTcFD\nfmWFRSLuTbiN2t+MXJ4/b/SDCyfJcHLtMOEV6JFqvo6D7P7dYGvPfNEZAoGBAK2J\nh3yiGd21BlRhdy2dMBVVjRESO9p3G7PkHm7PPbUMKYet2Uo98Ma/GOmv5TFdPK9p\nqnySg2HNLQOH9KPuPmExNnNzcr+mx8RmSI/wYhX9WjicpfZ9y9ve6SmRSmt3Ev10\nwPS3SzWzVtDe3dETxMox9ba3wUOSAA9VEpMz0s19AoGBALgPOlmkrizyMj+A1KbN\n/28OSE/8iNMZt+S+6vcpRkA4zdg0urGGjXJxTtFTBRi6n2H2DPSEhMMZBIHsZVMH\nQK1z2uI7vBYBCG4YJVQ3kYbiSOHRy3+u4x0GJHmCwsL+pUYimYKS+nt80oKgiAcu\n0ltEiMYd4skrB1xieq0tYOiy\n-----END PRIVATE KEY-----\n",
+  "client_email": "osama-hameed@scrap-salvagesalvage-data.iam.gserviceaccount.com",
+  "client_id": "105936276599921802868",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/osama-hameed%40scrap-salvagesalvage-data.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
